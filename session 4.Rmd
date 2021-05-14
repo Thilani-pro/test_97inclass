@@ -1,0 +1,13 @@
+---
+title: "session 4"
+author: "Philip Thilani"
+date: "5/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#data wrangling exercise 
+**wow**
